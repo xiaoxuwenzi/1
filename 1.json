@@ -52,7 +52,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/miniku.json"
+   "ext": "https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/miniku.json"
   },
    {
       "key": "影图",
@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
     },
      {
      "key": "csp_XYQBiu_影视工厂",
@@ -92,8 +92,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/影视工厂.json",
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;f7a1936094e376d19c4e01db34ee70e2"
      },
      {
      "key": "csp_XYQBiu_555影视",
@@ -103,8 +103,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555dy.json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json",
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
      },
     {
       "key": "csp_Auete",
@@ -134,7 +134,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json",
-      "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
+      "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
     },
      {
      "key":"3EDY",
@@ -153,7 +153,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
      },
      {
      "key":"csp_biubiu_voflix",
@@ -182,7 +182,7 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
      },
 {
      "key":"csp_XYQBiu_e9",
@@ -192,7 +192,7 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
      },
 {
      "key":"csp_xpath_tjyy",
@@ -222,8 +222,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "ext": "https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/lyys(xyq).json",
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
      },
    {
             "key": "Kuaikan",
@@ -389,7 +389,7 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"https://alist.xiaoguanxiaocheng.life",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
 },
 {
   "key": "csp_Alist",
@@ -400,7 +400,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://alist.youte.ml",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist1",
@@ -411,7 +411,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://pan.142856.xyz",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist2",
@@ -422,7 +422,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://xn--i0v44m.xyz/",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist3",
@@ -433,7 +433,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://alist.shenzjd.com",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist4",
@@ -444,7 +444,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://drive.9t.ee",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist5",
@@ -455,7 +455,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://pan.hikerfans.com/",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
  {
   "key": "csp_Alist6",
@@ -466,7 +466,7 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://pity.eu.org",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+  "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0828.jar;md5;28a1907368c5a7c623f878e99d8fc6ee"
  },
         {
             "key": "Bili",
