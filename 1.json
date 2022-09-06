@@ -8,15 +8,27 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
-    {
-            "key": "77",
-            "name": "77(爬虫)",
+   {
+            "key": "看视界",
+            "name": "看视界(爬虫)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_KanSJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
         },
+        {
+     "key": "csp_XYQBiu_555影视",
+     "name":"555影视",
+     "type":3,"api":
+     "csp_XYQBiu",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json",
+     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     },
          {
            "key": "T4",
            "name": "T4爬虫",
@@ -94,17 +106,7 @@
      "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/影视工厂.json",
      "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;f7a1936094e376d19c4e01db34ee70e2"
      },
-     {
-     "key": "csp_XYQBiu_555影视",
-     "name":"555影视",
-     "type":3,"api":
-     "csp_XYQBiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
-     },
+     
     {
       "key": "csp_Auete",
       "name": "Auete(SP)",
@@ -296,16 +298,7 @@
             "quickSearch":1,
             "filterable":1
         },
-        {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
-            "type": 3,
-            "api": "csp_KanSJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-        },
+        
         {
             "key": "追剧喵",
             "name": "追剧喵(爬虫)",
@@ -527,15 +520,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",\r\n  \"scVodMark\": \"\"\r\n}"
-    },
-    {"key":"csp_xpath_007",
-    "name":"玲玲七(XP)",
-    "type":3,
-    "api":"csp_XPathMacFilter",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://box.qinglin.tk/box/xp/007.json"
     },
     {
       "key": "push_agent",
