@@ -18,15 +18,12 @@
       "searchable": 1,
       "ext": ""
     },
-    {
-      "key": "小苹果",
-      "name": "🍎小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    {"key":"csp_LiteApple",
+    "name":"🍎小苹果(SP)","type":3,
+    "api":"csp_LiteApple",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable": 1},
          {
            "key": "T4",
            "name": "T4爬虫",
