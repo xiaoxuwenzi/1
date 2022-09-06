@@ -44,17 +44,7 @@
       "filterable":1,
       "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
     },
-   {
-   "key": "csp_biubiu_迷你库",
-   "name": "迷你库",
-   "type": 3,
-   "api": "csp_XBiubiu",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/miniku.json"
-  },
-   {
+      {
       "key": "影图",
       "name": "影图(聚)",
       "type": 1,
