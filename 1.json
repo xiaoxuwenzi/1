@@ -8,16 +8,6 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
-        {
-      "key": "KanSJ_spider",
-      "name": "🛰️看视界",
-      "api": "csp_KanSJ",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
     {"key":"csp_LiteApple",
     "name":"🍎小苹果(SP)","type":3,
     "api":"csp_LiteApple",
