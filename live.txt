@@ -263,7 +263,7 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 欢笑剧场4K,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 纯享4K,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000004000011651&livemode=1&stbId=2&channel-id=ystenlive
-斗鱼,#genre# 
+斗鱼电影,#genre# 
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
 斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
@@ -565,7 +565,7 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 斗鱼旅行16,http://epg.112114.xyz/douyu/9172774
 斗鱼旅行17,http://epg.112114.xyz/douyu/4834417
 斗鱼旅行18,http://epg.112114.xyz/douyu/2240445
-【YY直播】,#genre#
+舞蹈,#genre#
 3594,http://mmitv.top/pltv/yy.php?id=89703802
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 佳人如画郭mini,http://mmitv.top/pltv/yy.php?id=1349606469
@@ -1057,10 +1057,11 @@ H正在直播,http://mmitv.top/pltv/yy.php?id=1461725670
 小媳妇儿回来了,http://mmitv.top/pltv/yy.php?id=1351698424
 甜酷辣妹暖心子,http://mmitv.top/pltv/yy.php?id=1354997439
 妩媚女神冉冉,http://mmitv.top/pltv/yy.php?id=1382701787
-【小仙女直播】,#genre#
-小姐姐轮播直播点击换,http://wmsp.cc/video.php
-抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
-花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
+【直播】,#genre#
+轮播直播,http://wmsp.cc/video.php
+抖音轮播,http://mmitv.top/test/douyin.php?id=top
+快手,http://mmitv.top/test/kuaishou.php?id=top
+花椒轮播,http://mmitv.top/test/hjzb.php?id=top
 6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
 千帆轮播直播点击切换,http://mmitv.top/test/qf56.php?id=top
 我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
