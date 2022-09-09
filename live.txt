@@ -571,9 +571,7 @@ YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 【直播】,#genre#
 轮播直播,http://wmsp.cc/video.php
-1,http://wmsp.cc/video.php?id=top
 抖音轮播,http://mmitv.top/test/douyin.php?id=top
-快手,https://v3-ot01.kwaicdn.com/bs3/video.php?id=top
 花椒轮播,http://mmitv.top/test/hjzb.php?id=top
 6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
 千帆轮播直播点击切换,http://mmitv.top/test/qf56.php?id=top
