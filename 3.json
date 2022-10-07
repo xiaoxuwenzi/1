@@ -25,8 +25,7 @@
 	     "searchable":1,
 	     "quickSearch":1,
 	     "filterable":1}, 
-	    {"key":"csp_SP293","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
-	     "jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"},
+	    {"key":"csp_SP293","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
  
         {
      "key": "csp_XYQBiu_555影视",
@@ -38,15 +37,6 @@
      "filterable":1,
      "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json"
      },
-         {
-           "key": "T4",
-           "name": "T4爬虫",
-           "type": 4,
-           "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-           "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0
-         },  
          {
             "key":"t4public",
             "name":"T4公共",
