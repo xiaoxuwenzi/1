@@ -27,7 +27,8 @@
 	     "api":"csp_LiteApple",
 	     "searchable":1,
 	     "quickSearch":1,
-	     "filterable":1},    
+	     "filterable":1}, 
+	    {"key":"csp_SP293","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
    {
             "key": "看视界",
             "name": "看视界(爬虫)",
@@ -105,16 +106,7 @@
       "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json",
       "jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
     },
-    {
-      "key": "293视频",
-      "name": "293视频",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
-    },
+    
      {
      "key": "csp_XYQBiu_影视工厂",
      "name":"影视工厂",
