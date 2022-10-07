@@ -36,8 +36,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json"
      },
          {
            "key": "T4",
@@ -65,16 +64,7 @@
        "quickSearch":1,
        "filterable":1
        },
-      {
-      "key":"优众影视",
-      "name":"优众影视",
-      "type":3,
-      "api":"csp_AppYs",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
-    },
+      
       {
       "key": "影图",
       "name": "影图(聚)",
@@ -83,17 +73,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-       {
-      "key": "bdys",
-      "name": "哔嘀磁力",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json",
-      "jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
     },
     
      {
@@ -104,8 +83,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/影视工厂.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;f7a1936094e376d19c4e01db34ee70e2"
+     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/影视工厂.json"
+    
      },
      
     {
@@ -391,8 +370,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-		"jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"
+            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
         {
             "key": "zhaozy",
@@ -402,8 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-		"jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"
+            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
         {
             "key": "AliPS",
@@ -413,8 +390,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-		"jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"
+            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
         {
             "key": "Yiso",
@@ -424,8 +400,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-		"jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"
+            "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         },
         {   
             "key": "在线直播",
