@@ -8,10 +8,6 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
-	{"key": "douban-JS",
-     "name": "豆瓣[JS]",
-     "type": 3,
-     "api": "https://github.com/heroaku/TVboxo/raw/main/Js/douban.js"},
 	     {"key":"csp_XYQBiu_短视频",
 	      "name":"分享短视频(YXQ)",
 	      "type":3,
