@@ -26,7 +26,7 @@
 	     "searchable":1,
 	     "quickSearch":1,
 	     "filterable":1}, 
-	    {"key":"csp_SP293","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1",
+	    {"key":"csp_SP293","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
 	     "jar":"https://github.com/xiaoxuwenzi/xiaoxuwenzi.github.io/blob/main/0922.jar?raw=true;md5;9E320A431D6550D8355D7DAEB0DCBCF7"},
    {
             "key": "看视界",
