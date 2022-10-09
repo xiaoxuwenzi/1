@@ -8,36 +8,7 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
-   {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
-            "type": 3,
-            "api": "csp_KanSJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-        },
-        {
-     "key": "csp_XYQBiu_555影视",
-     "name":"555影视",
-     "type":3,"api":
-     "csp_XYQBiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"https://xiaoxuwenzi.github.io/json/555dy.json",
-     "jar":"https://xiaoxuwenzi.github.io/jar/0922.jar;md5;2A00415059E6B730D6EFF4EA8D7689ED"
-     },
-         {
-           "key": "T4",
-           "name": "T4爬虫",
-           "type": 4,
-           "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-           "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0
-         },  
+     
          {
             "key":"t4public",
             "name":"T4公共",
