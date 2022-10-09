@@ -4,7 +4,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhb3h1d2VuemkvMS9yYXcvYnJhbmNoL21haW4vbGl2ZS50eHQ="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveHV3ZW56aS5naXRodWIuaW8vbGl2ZS50eHQ="
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
@@ -26,8 +26,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/555dy.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     "ext":"https://xiaoxuwenzi.github.io/json/555dy.json",
+     "jar":"https://xiaoxuwenzi.github.io/jar/XYQBiu.jar;md5;BDD97EBABF3F2F95C63073BD1808CF39"
      },
          {
            "key": "T4",
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
+     "jar":"https://xiaoxuwenzi.github.io/jar/0825.jar;md5;63DFBF32FFA303C5B71B56EBFCB86204"
     },
      {
      "key": "csp_XYQBiu_影视工厂",
@@ -103,8 +103,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/影视工厂.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;f7a1936094e376d19c4e01db34ee70e2"
+     "ext":"https://xiaoxuwenzi.github.io/json/影视工厂.json",
+     "jar":"https://xiaoxuwenzi.github.io/jar/XYQBiu.jar;BDD97EBABF3F2F95C63073BD1808CF39"
      },
      
     {
@@ -135,7 +135,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json",
-      "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
+      "jar":"https://xiaoxuwenzi.github.io/jar/0825.jar;md5;63DFBF32FFA303C5B71B56EBFCB86204"
     },
      {
      "key":"3EDY",
@@ -154,7 +154,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/0825.jar;md5;8846cd2903fde5633ec8b8a6cbafbe10"
+     "jar":"https://xiaoxuwenzi.github.io/jar/0825.jar;md5;63DFBF32FFA303C5B71B56EBFCB86204"
      },
      {
      "key":"csp_biubiu_voflix",
@@ -183,7 +183,7 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     "jar":"https://xiaoxuwenzi.github.io/jar/XYQBiu.jar;md5;BDD97EBABF3F2F95C63073BD1808CF39"
      },
 {
      "key":"csp_XYQBiu_e9",
@@ -193,7 +193,7 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     "jar":"https://xiaoxuwenzi.github.io/jar/XYQBiu.jar;md5;BDD97EBABF3F2F95C63073BD1808CF39"
      },
 {
      "key":"csp_xpath_tjyy",
@@ -223,8 +223,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext": "https://gitea.com/xiaoxuwenzi/1/raw/branch/main/json/lyys(xyq).json",
-     "jar":"https://gitea.com/xiaoxuwenzi/1/raw/branch/main/jar/XYQBiu.jar;md5;f7a1936094e376d19c4e01db34ee70e2"
+     "ext": "https://xiaoxuwenzi.github.io/json/lyys(xyq).json",
+     "jar":"https://xiaoxuwenzi.github.io/jar/XYQBiu.jar;md5;BDD97EBABF3F2F95C63073BD1808CF39"
      },
    {
             "key": "Kuaikan",
@@ -380,7 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/xiaoxuwenzi/1/raw/branch/main/bili.json"
+            "ext": "https://xiaoxuwenzi.github.io/bili.json"
         },
         {
             "key": "Gitcafe",
