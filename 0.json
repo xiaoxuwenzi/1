@@ -300,7 +300,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/lgyy.json"
+            "ext": "https://xiaoxuwenzi.github.io/json/lgyy.json"
         },
         {
             "key": "ysgc",
@@ -310,7 +310,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/ysgc.json"
+            "ext": "https://xiaoxuwenzi.github.io/json/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -320,7 +320,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/gptv.json"
+            "ext":"https://xiaoxuwenzi.github.io/json/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -330,7 +330,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/kdyy.json"
+            "ext": "https://xiaoxuwenzi.github.io/json/kdyy.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -340,7 +340,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
+            "ext":"https://xiaoxuwenzi.github.io/json/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -350,7 +350,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
+            "ext":"https://xiaoxuwenzi.github.io/json/zxzjp.json"
         },
         {   
             "key": "在线直播",
@@ -369,7 +369,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "https://xiaoxuwenzi.github.io/json/bili.json"
         },
         {
             "key": "推送",
