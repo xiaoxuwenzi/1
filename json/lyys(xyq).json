@@ -5,7 +5,7 @@
     "firstpage": "1",
     "homeContent": "1",
      "class_url": "https://www.lingyun.in/list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "class_name": "电视剧&电影&综艺&动漫",
+    "class_name": "电视剧&电影&综艺&动漫&纪录片",
     "class_value": "tv&movie&variety&cartoon",
     "filterdata":{
 "tv": [
