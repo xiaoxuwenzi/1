@@ -11,6 +11,22 @@
             "filterable": 1
         },
         {
+            "key": "看视界",
+            "name": "看视界(爬虫)",
+            "type": 3,
+            "api": "csp_KanSJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        },
+        {"key":"csp_SP293",
+     "name":"293视频",
+     "type":3,
+     "api":"csp_SP293",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1},
+        {
             "key": "Lezhu",
             "name": "乐猪(爬虫)",
             "api": "csp_Lezhu",
@@ -385,7 +401,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveHV3ZW56aS5naXRodWIuaW8vbGl2ZS50eHQ="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
