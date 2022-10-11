@@ -4,11 +4,74 @@
 		"name": "酷云77",
 		"type": 3,
 		"api": "py_kunyu77",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_kunyu77.py"
 	}, {
+		"key": "py_koudaiys",
+		"name": "口袋影视",
+		"type": 3,
+		"api": "py_koudaiys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_koudaiys.py"
+	},{
+		"key": "py_cokemv",
+		"name": "COKEMV",
+		"type": 3,
+		"api": "py_cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cokemv.py"
+	},{
+		"key": "py_jrskbs",
+		"name": "企销体育",
+		"type": 3,
+		"api": "py_jrskbs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_jrskbs.py"
+	},{
+		"key": "py_yixi",
+		"name": "一席",
+		"type": 3,
+		"api": "py_yixi",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yixi.py"
+	},{
+		"key": "py_douban",
+		"name": "豆瓣",
+		"type": 3,
+		"api": "py_douban",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douban.py"
+	},{
+		"key": "py_ddys2",
+		"name": "低端影视",
+		"type": 3,
+		"api": "py_ddys2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_ddys2.py"
+	},{
+		"key": "py_libvio",
+		"name": "Libvio",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_libvio.py"
+	},{
 		"key": "py_bilibili",
 		"name": "哔哩",
 		"type": 3,
