@@ -8,7 +8,52 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_kunyu77.py"
-	}, {
+	},{
+      "key": "py_kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "py_kuaikan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_kuaikan.py"
+    }, {
+      "key": "py_lezhutv",
+      "name": "乐猪",
+      "type": 3,
+      "api": "py_lezhutv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_lezhutv.py"
+    },{
+      "key": "py_yydshd",
+      "name": "YYDS",
+      "type": 3,
+      "api": "py_yydshd",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yydshd.py"
+    },{
+      "key": "py_zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "py_zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_zxzj.py"
+    },{
+      "key": "py_bilimd",
+      "name": "B站影视",
+      "type": 3,
+      "api": "py_bilimd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilimd.py"
+    },{
 		"key": "py_koudaiys",
 		"name": "口袋影视",
 		"type": 3,
@@ -19,7 +64,7 @@
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_koudaiys.py"
 	},{
 		"key": "py_cokemv",
-		"name": "COKEMV",
+		"name": "COKE",
 		"type": 3,
 		"api": "py_cokemv",
 		"searchable": 1,
@@ -54,15 +99,6 @@
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douban.py"
 	},{
-		"key": "py_ddys2",
-		"name": "低端影视",
-		"type": 3,
-		"api": "py_ddys2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_ddys2.py"
-	},{
 		"key": "py_libvio",
 		"name": "Libvio",
 		"type": 3,
@@ -76,8 +112,8 @@
 		"name": "哔哩",
 		"type": 3,
 		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili.py"
 	}, {
