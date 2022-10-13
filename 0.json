@@ -10,6 +10,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
         {
             "key": "Lezhu",
             "name": "乐猪(爬虫)",
