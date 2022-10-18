@@ -268,6 +268,16 @@
             "filterable":1,
             "ext":"https://xiaoxuwenzi.github.io/json/zxzjp.json"
         },
+        {
+      "key": "dspjh",
+      "name": "视频┃短视频聚合",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "ttps://xiaoxuwenzi.github.io/json/dspjh.json"
+    },
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
