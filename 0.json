@@ -38,13 +38,14 @@
             "filterable":1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "key": "Bili",
+            "name": "👨‍👩‍👦‍👦哔哩套餐",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://xiaoxuwenzi.github.io/bili.json"
         },
         {
             "key": "农民",
@@ -146,92 +147,7 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {
-            "key": "QQ",
-            "name": "QQ(不好用)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "IQIYI",
-            "name": "IQIYI(不好用)",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MGTV",
-            "name": "MGTV(不好用)",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360",
-            "name": "360(不好用)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
-        },
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
-        },
-        {
-            "key": "Yiso",
-            "name": "一搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Yiso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
-        },
-        {
-            "key": "Upyunso",
-            "name": "Upyunso(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
-        },
+        
         {
             "key": "csp_xpath_dm84",
             "name": "动漫巴士(XP)",
@@ -380,6 +296,101 @@
             "ext": "https://xiaoxuwenzi.github.io/json/bili.json"
         },
         {
+            "key": "QQ",
+            "name": "QQ(不好用)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "Coke",
+            "name": "Cokemv(不好用中)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "IQIYI",
+            "name": "IQIYI(不好用)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGTV",
+            "name": "MGTV(不好用)",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "360",
+            "name": "360(不好用)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条(爬虫)",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        },
+        {
+            "key": "zhaozy",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        },
+        {
+            "key": "AliPS",
+            "name": "盘搜(仅搜索)",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        },
+        {
+            "key": "Yiso",
+            "name": "一搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        },
+        {
+            "key": "Upyunso",
+            "name": "Upyunso(仅搜索)",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        },
+        {
             "key": "推送",
             "name": "推送",
             "type":3,
@@ -407,9 +418,7 @@
     {"name":"bozrc","type": 0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
     {"name":"最先","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
     {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},     
-    {"name":"okjx",
-    "type":0,
-    "url":"https://okjx.cc/?url="}
+    {"name":"okjx","type":0,"url":"https://okjx.cc/?url="}
     ],
     "flags":[
 "youku",
