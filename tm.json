@@ -702,5 +702,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://xiaoxuwenzi.github.io/jar/cs.jar;md5;6C5DFE1C81CDB285F314202993609691"
+       "spider":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
 }
