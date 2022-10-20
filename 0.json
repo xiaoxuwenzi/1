@@ -395,7 +395,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
+            "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar"
         },
        
         {
