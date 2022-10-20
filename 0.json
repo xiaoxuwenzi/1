@@ -20,6 +20,15 @@
             "searchable": 1
         },
         {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -28,18 +37,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
-            
-        },
-       
+        
         {
             "key": "农民",
             "name": "农民(爬虫)",
@@ -67,27 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
-         {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Cokemv","name": "可乐","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "If101","name": "101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Smdyy","name": "神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "SP360","name": "SP360","type":3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Xiaoh","name": "Xiaoh","type":3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
- {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+        },   
         {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
@@ -115,15 +93,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "LiteApple",
-            "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "Auete",
             "name": "Auete(爬虫)",
@@ -327,16 +297,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "Coke",
-            "name": "Cokemv(不好用中)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
-        },
+         
         {
             "key": "IQIYI",
             "name": "IQIYI(不好用)",
@@ -355,17 +316,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "360",
-            "name": "360(不好用)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
-        },
-       
+        
         {
             "key": "zhaozy",
             "name": "找资源(仅搜索)",
@@ -406,6 +357,47 @@
             "filterable": 0,
             "ext": "5f2b86d1f2094ee1ae2d192d7a565337"
         },
+        {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Cokemv","name": "可乐","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "If101","name": "101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Smdyy","name": "神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "SP360","name": "SP360","type":3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Xiaoh","name": "Xiaoh","type":3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+ {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"},
+        {
+            "key": "Coke",
+            "name": "Cokemv(不好用中)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+             "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
+        },
+        {
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://xiaoxuwenzi.github.io/jar/custom_spider.jar;md5;CCD9EE7F6F4C21E886A1987B56B8CF07"
+        },
+       
         {
             "key": "推送",
             "name": "推送",
