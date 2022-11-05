@@ -57,15 +57,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{
-            "key": "AppTT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },   
         {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
