@@ -332,7 +332,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=https://xiaoxuwenzi.github.io/liveceshi.txt"
+        "proxy://do=live&type=txt&ext=https://xiaoxuwenzi.github.io/live.txt"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
