@@ -31,10 +31,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def manualVideoCheck(self):
 		pass
 	def playerContent(self,flag,id,vipFlags):
-		if flag == 'AliYun原画':
-			return self.fhdContent(flag,id,vipFlags)
-		elif flag == 'AliYun':
+		if flag == 'AliYun':
 			return self.originContent(flag,id,vipFlags)
+		elif flag == 'AliYun原画':
+			return self.fhdContent(flag,id,vipFlags)
 		else:
 			return 	{}		
 	def fhdContent(self,flag,id,vipFlags):		
