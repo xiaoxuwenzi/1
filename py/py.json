@@ -45,15 +45,6 @@
       "filterable": 1,
       "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_zxzj.py"
     },{
-      "key": "py_bilimd",
-      "name": "B站影视",
-      "type": 3,
-      "api": "py_bilimd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilimd.py"
-    },{
 		"key": "py_koudaiys",
 		"name": "口袋影视",
 		"type": 3,
@@ -116,15 +107,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili2.py"
-	}, {
-		"key": "py_bilivd",
-		"name": "B站(带搜索)",
-		"type": 3,
-		"api": "py_bilivd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilivd.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
@@ -139,8 +121,8 @@
 		"name": "央视",
 		"type": 3,
 		"api": "py_cctv",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cctv.py"
 	},{
@@ -148,8 +130,8 @@
 		"name": "央视大全",
 		"type": 3,
 		"api": "py_cctv_full",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cctv_full.py"
 	},{
@@ -188,16 +170,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_voflix.py"
-	}, {
-		"key": "py_bilimd",
-		"name": "B站影视",
-		"type": 3,
-		"api": "py_bilimd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilimd.py"
-	}, {
+	},{
 		"key": "py_gimytv",
 		"name": "剧迷",
 		"type": 3,
@@ -304,7 +277,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_ali.py"
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_ali.py;desc"
 	}],
 	"parses": [{
 		"name": "默认选项",
