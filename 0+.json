@@ -195,33 +195,6 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douyu.py"
-	},{
-		"key": "py_gitcafe",
-		"name": "小纸条",
-		"type": 3,
-		"api": "py_gitcafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gitcafe.py"
-	}, {
-		"key": "py_yiso",
-		"name": "易搜",
-		"type": 3,
-		"api": "py_yiso",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yiso.py"
-	},{
-		"key": "py_alist",
-		"name": "Alist",
-		"type": 3,
-		"api": "py_alist",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_alist.py"
 	},
 	{
 		"key": "py_bilibili2",
@@ -278,7 +251,34 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+	    {
+		"key": "py_gitcafe",
+		"name": "小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gitcafe.py"
+	}, {
+		"key": "py_yiso",
+		"name": "易搜",
+		"type": 3,
+		"api": "py_yiso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yiso.py"
+	},{
+		"key": "py_alist",
+		"name": "Alist",
+		"type": 3,
+		"api": "py_alist",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_alist.py"
+	},
         {
             "key": "zhaozy",
             "name": "找资源(仅搜索)",
