@@ -19,6 +19,7 @@ class Spider(Spider):
 		cateManual = {
 			"热门游戏": "热门游戏",
 			"主机游戏": "主机游戏",
+			"颜值" : "颜值" ,
 			"原创IP": "原创IP"
 		}
 		classes = []
