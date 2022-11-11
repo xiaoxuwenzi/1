@@ -30,6 +30,14 @@ class Spider(Spider):  # 元类 默认的元类 type
             "排行榜": "排行榜",
             "频道": "频道",
             "历史记录": "历史记录",
+            "舞蹈":"舞蹈",
+            "相声小品": "相声小品",
+            "电影解说":"电影解说", 
+            "昆虫": "昆虫",
+            "动物世界": "动物世界",
+            "纪录片": "纪录片",
+            "搞笑": "搞笑",
+            "演唱会": "演唱会"
         }
         classes = []
         for k in cateManual:
@@ -54,7 +62,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         import requests
         import http.cookies
         # 这里加cookie
-        raw_cookie_line = ""
+        raw_cookie_line = "buvid3=156D4954-5CA3-6F91-0BF6-735D5B1CBD6F47042infoc; b_nut=1668156747; i-wanna-go-back=-1; fingerprint=e148b82306dfa1c1f37f5364a3904514; buvid_fp=156D4954-5CA3-6F91-0BF6-735D5B1CBD6F47042infoc; buvid_fp_plain=undefined; SESSDATA=0c19e3b4%2C1683708761%2C8f9ee%2Ab2; bili_jct=508c03ca2d60192085f929a3b120f6b6; DedeUserID=7168543; DedeUserID__ckMd5=b85817f0ee6a28c2; sid=5o2ifopu; CURRENT_FNVAL=4048; b_ut=5; innersign=0"
         simple_cookie = http.cookies.SimpleCookie(raw_cookie_line)
         cookie_jar = requests.cookies.RequestsCookieJar()
         cookie_jar.update(simple_cookie)
