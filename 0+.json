@@ -1,6 +1,45 @@
 
 {
     "sites": [ 
+	    {
+		"key": "py_czspp",
+		"name": "厂长",
+		"type": 3,
+		"api": "py_czspp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_czspp.py"
+	},
+	     {
+		"key": "py_gitcafe",
+		"name": "小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gitcafe.py"
+	}, {
+		"key": "py_yiso",
+		"name": "易搜",
+		"type": 3,
+		"api": "py_yiso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yiso.py"
+	},
+	    {
+            "key": "zhaozy",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "5f2b86d1f2094ee1ae2d192d7a565337"
+        },
         {
             "key": "77",
             "name": "77(爬虫)",
@@ -151,15 +190,6 @@
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cctv_full.py"
 	},{
-		"key": "py_czspp",
-		"name": "厂长",
-		"type": 3,
-		"api": "py_czspp",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_czspp.py"
-	},{
 		"key": "py_cyys",
 		"name": "创艺",
 		"type": 3,
@@ -196,16 +226,7 @@
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douyu.py"
 	},
-	{
-		"key": "py_bilibili2",
-		"name": "哔哩",
-		"type": 3,
-		"api": "py_bilibili2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili2.py"
-	},
+	
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
@@ -252,24 +273,16 @@
             "filterable": 1
         },
 	    {
-		"key": "py_gitcafe",
-		"name": "小纸条",
+		"key": "py_bilibili2",
+		"name": "哔哩",
 		"type": 3,
-		"api": "py_gitcafe",
+		"api": "py_bilibili2",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gitcafe.py"
-	}, {
-		"key": "py_yiso",
-		"name": "易搜",
-		"type": 3,
-		"api": "py_yiso",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yiso.py"
-	},{
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili2.py"
+	},
+	   {
 		"key": "py_alist",
 		"name": "Alist",
 		"type": 3,
@@ -279,16 +292,7 @@
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_alist.py"
 	},
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "5f2b86d1f2094ee1ae2d192d7a565337"
-        },
+        
 	    {
 		"key": "push_agent",
 		"name": "阿里",
