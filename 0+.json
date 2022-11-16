@@ -2,6 +2,15 @@
 {
     "sites": [ 
 	    {
+		"key": "py_douban",
+		"name": "豆瓣",
+		"type": 3,
+		"api": "py_douban",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douban.py"
+	},{
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
@@ -162,15 +171,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yixi.py"
-	},{
-		"key": "py_douban",
-		"name": "豆瓣",
-		"type": 3,
-		"api": "py_douban",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douban.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
