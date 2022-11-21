@@ -278,7 +278,7 @@
 		"type": 3,
 		"api": "py_bilibili2",
 		"searchable": 1,
-		"quickSearch": 1,
+		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili2.py"
 	},
