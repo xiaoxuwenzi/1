@@ -9,7 +9,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douban.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_douban.py"
 	},{
 		"key": "py_czspp",
 		"name": "厂长",
@@ -18,7 +18,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_czspp.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_czspp.py"
 	},
 	     {
 		"key": "py_gitcafe",
@@ -28,7 +28,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gitcafe.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_gitcafe.py"
 	}, {
 		"key": "py_yiso",
 		"name": "易搜",
@@ -37,7 +37,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yiso.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_yiso.py"
 	},
 	    {
             "key": "zhaozy",
@@ -94,7 +94,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://xiaoxuwenzi.github.io/json/nongminyingshi.json"
+            "ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/json/nongminyingshi.json"
         },
         {
             "key": "剧荒",
@@ -150,7 +150,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://xiaoxuwenzi.github.io/json/dm84.json"
+            "ext":"https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/json/dm84.json"
         }, 
         {
             "key": "多多",
@@ -170,7 +170,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_yixi.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_yixi.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
@@ -179,7 +179,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_3qu.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_3qu.py"
 	},{
 		"key": "py_cctv_full",
 		"name": "央视大全",
@@ -188,7 +188,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cctv_full.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_cctv_full.py"
 	},{
 		"key": "py_cyys",
 		"name": "创艺",
@@ -197,7 +197,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_cyys.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_cyys.py"
 	},{
 		"key": "py_gimytv",
 		"name": "剧迷",
@@ -206,7 +206,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_gimytv.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_gimytv.py"
 	},{
 		"key": "py_huya",
 		"name": "虎牙",
@@ -215,7 +215,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_huya.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_huya.py"
 	}, {
 		"key": "py_douyu",
 		"name": "斗鱼",
@@ -224,7 +224,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_douyu.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_douyu.py"
 	},
 	
         {   
@@ -280,7 +280,7 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_bilibili2.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_bilibili2.py"
 	},
 	   {
 		"key": "py_alist",
@@ -290,7 +290,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_alist.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_alist.py"
 	},
         
 	    {
@@ -301,7 +301,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://xiaoxuwenzi.github.io/py/plugin/py_ali.py"
+		"ext": "https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/py/plugin/py_ali.py"
 	},
 {
             "key": "推送",
@@ -317,7 +317,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=https://xiaoxuwenzi.github.io/live.txt"
+        "proxy://do=live&type=txt&ext=https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/live.txt"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -586,5 +586,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://xiaoxuwenzi.github.io/jar/cs.jar;md5;6C5DFE1C81CDB285F314202993609691"
+       "spider":"https://cdn.jsdelivr.net/gh/xiaoxuwenzi/1/jar/cs.jar;md5;8F404F76A5386A9914EB7092403B15B2"
 }
