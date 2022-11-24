@@ -253,25 +253,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         
-        {
-            "key": "IQIYI",
-            "name": "IQIYI(不好用)",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MGTV",
-            "name": "MGTV(不好用)",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
 	    {
 		"key": "py_bilibili2",
 		"name": "哔哩",
@@ -326,11 +308,9 @@
     {"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}}, 
     {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
     {"name": "juhe",   "type": 1,   "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-    {"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-    {"name":"乐多","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
-    {"name":"bozrc","type": 0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-    {"name":"最先","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
-    {"name":"okjx","type":0,"url":"https://okjx.cc/?url="}
+    {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+   {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+   {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
     ],
     "flags":[
 "youku",
